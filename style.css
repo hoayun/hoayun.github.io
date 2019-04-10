@@ -1,0 +1,59 @@
+body{
+background: url(wallpaper.png);
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 140px;
+    height: 50px;
+    line-height: 20px; 
+    
+    opacity:.4 ;
+    
+  }
+  
+
+
+
+
+#me{margin-left:100px;
+    
+}
+hr{height: 1px;
+    border: 0;
+    border-top: 2px solid orange;
+    margin:0;
+    padding:0;
+}
+label{color:orange;}
+
+.business-card {
+  border: 1px solid #cccccc;
+  background: #f8f8f8;
+  padding: 10px;
+  border-radius: 4px;
+  margin-right:auto;
+  margin-left:auto;
+}
+.profile-img {
+  height: 160px;
+  background: white;
+  margin-right: 20px;
+}
+.job {
+  color: #666666;
+  font-size: 20px;
+}
+.mail {
+  font-size: 16px;
+ }
+ .projects{
+   font-size: 42px;
+   margin-right:auto;
+   margin-left:auto;
+   color: goldenrod;
+   text-align:center;
+ }
+ .card-img-top{
+   max-height: 210px;
+ }
