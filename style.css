@@ -55,9 +55,21 @@ label{color:orange;}
  .card-img-top{
    max-height: 270px;
  }
- section{
+ .section{
    background-color: rgba(0, 0, 0, 0.63);
    padding-bottom: 20px;
    padding-top:10px;
  }
- 
+ .card-image{
+   height:200px;
+   width:200px;
+ }
+ .card{
+   flex-direction:row;
+   display:inline;
+ }
+ .resume{
+   font-family:Georgia;
+   color:goldenrod;
+   font-size: 28px;
+ }
