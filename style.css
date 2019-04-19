@@ -26,11 +26,11 @@ footer{
 }
 hr{height: 1px;
     border: 0;
-    border-top: 2px solid orange;
+    border-top: 2px solid #ffc107;
     margin:0;
     padding:0;
 }
-label{color:orange;}
+label{color:#ffc107;}
 
 
 .profile-img {
@@ -49,7 +49,7 @@ label{color:orange;}
    font-size: 42px;
    margin-right:auto;
    margin-left:auto;
-   color: goldenrod;
+   color: #ffc107;
    text-align:center;
  }
  .card-img-top{
@@ -70,7 +70,7 @@ label{color:orange;}
  }
  .resume{
    font-family:Georgia;
-   color:goldenrod;
+   color:#ffc107;
    font-size: 28px;
    margin-bottom:6px;
  }
